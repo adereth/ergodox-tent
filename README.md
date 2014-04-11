@@ -1,6 +1,6 @@
 # ergodox-tent
 
-A tent for the [Ergodox acrylic case designed by Litster](http://deskthority.net/wiki/ErgoDox).  The design was implemented using clj-scad.
+A tent for the [Ergodox acrylic case designed by Litster](http://deskthority.net/wiki/ErgoDox).  The design was implemented using [clj-scad](https://github.com/farrellm/scad-clj).
 
 ![design](resources/tent.png)
 
